@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "addr_lib_user.h": "c",
+        "pim_mem_lib_user.h": "c",
+        "multi_dev_lib_user.h": "c",
+        "stdio.h": "c",
+        "random": "c",
+        "mman.h": "c",
+        "pim.h": "c",
+        "pim_mem.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}

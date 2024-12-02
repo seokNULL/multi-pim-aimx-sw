@@ -1,0 +1,824 @@
+Average CDMA Memcpy time over 100 trials: 24818 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 100 trials: 45398 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 100 trials: 157501 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 100 trials: 569378 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 100 trials: 2225014 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 100 trials: 8808944 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 100 trials: 0 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 100 trials: 25738 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 100 trials: 46800 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 100 trials: 153769 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 100 trials: 574115 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 100 trials: 2230770 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 100 trials: 8832372 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 100 trials: 35237710 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+== fifo ==
+Average CDMA Memcpy time over 100 trials: 26791 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 100 trials: 45723 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 100 trials: 156651 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 100 trials: 602507 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 100 trials: 2282986 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 100 trials: 9999790 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+==
+Average CDMA Memcpy time over 100 trials: 25685 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 100 trials: 47819 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 100 trials: 158610 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 100 trials: 578058 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 100 trials: 2228385 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 50 trials: 25853 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 50 trials: 46149 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 50 trials: 159909 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 50 trials: 601042 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 50 trials: 2259670 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 50 trials: 8776379 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 50 trials: 35039616 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 50 trials: 26637 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 50 trials: 49925 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 50 trials: 173369 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 50 trials: 1067922 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 50 trials: 6028452 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 50 trials: 24093605 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 50 trials: 96340751 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+== FRFCFS ==
+
+Average CDMA Memcpy time over 50 trials: 24570 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 50 trials: 47188 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 50 trials: 165594 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 50 trials: 930173 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 50 trials: 6456751 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 50 trials: 25794750 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 50 trials: 103067520 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 25050 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 47675 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 160647 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 773551 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 3117051 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 12486774 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 49724219 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+
+
+Average CDMA Memcpy time over 10 trials: 5723 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 9987 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes 
+Average CDMA Memcpy time over 10 trials: 28818 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 142126 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 615698 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 2497376 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 9959697 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 5818 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 9990 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 29080 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 144335 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 621683 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 2509451 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 9966372 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 5648 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 9760 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 29104 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 142337 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 613653 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 2502532 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 9979026 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 6018 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 9313 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 28982 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 144224 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 614163 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 2493934 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 9960015 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 5804 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 9745 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 29516 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 114209 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 450120 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 1762761 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 7036588 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 0 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 94522624353369 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 94381602532441 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 94489047739072 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 94285601175846 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 94408738584051 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 94194572319833 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 94420340785856 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 25025 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 45416 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 161375 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 770708 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 3131188 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 12478240 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 49841136 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 24693 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 45487 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 150631 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 746540 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 3116763 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 12454636 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 49758187 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 24851 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 44909 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 156598 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 754194 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 3131944 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 12444418 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 49827373 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 25221 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 48321 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 157269 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 575270 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 2220891 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 8825515 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 35212860 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 27052 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 48042 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 152904 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 621597 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 2394126 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 8915435 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 35080709 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 30738 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 44470 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 151636 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 560475 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 2211676 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 8771832 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 35041189 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 27020 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 43701 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 149338 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 738282 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 3002138 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 12035121 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 48441721 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 6299 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 9445 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 28142 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 137425 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 594443 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 2409085 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 9643612 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 6273 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 9873 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 30182 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 154856 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 621646 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 2465059 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 9650145 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 6148 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 9842 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 30330 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 136619 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 595477 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 2405117 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 9644068 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 5996 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 9790 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 28133 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 136657 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 593651 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 2405327 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 9611594 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 0 nanoseconds
+Transaction size: 16777216 * 4B = 67108864 bytes
+Average CDMA Memcpy time over 1 trials: 0 nanoseconds
+Transaction size: 16777216 * 4B = 67108864 bytes
+Average CDMA Memcpy time over 1 trials: 9597269 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 19186208 nanoseconds
+Transaction size: 8388608 * 4B = 33554432 bytes
+Average CDMA Memcpy time over 1 trials: 19368391 nanoseconds
+Transaction size: 8388608 * 4B = 33554432 bytes
+Average CDMA Memcpy time over 1 trials: 91715 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 148186 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 488082 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 2518475 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 10628551 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 44463569 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 177521133 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 59832 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 120636 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 484543 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 2331711 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 9777657 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 44379054 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 177520666 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 68773 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 117317 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 499568 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 2390451 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 9824183 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 44372836 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 177456854 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 64042 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 105558 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 428326 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1806582 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7623276 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33659039 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134570047 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 70708 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 101789 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 386860 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1829378 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7643995 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33748155 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134655432 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 58795 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 101104 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 341492 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1734127 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7424588 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33643270 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134567207 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 65860 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 96635 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 445414 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1735299 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7624273 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33735545 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134758245 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 73657 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 121529 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 388421 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1717261 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7618380 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33646194 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134488950 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 67294 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 99557 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 448776 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1755918 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7814390 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33687029 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134483352 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 63190 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 102362 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 383964 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1878657 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7823830 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33656281 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134691034 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 69753 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 102206 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 351742 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1901382 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7633367 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33702663 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134556838 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 63164 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 97229 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 363024 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1724612 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7822399 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33663551 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134706132 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 68676 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 106918 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 378120 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1803740 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7818776 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33680151 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134658136 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 55873 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 114757 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 381815 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1898747 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7883717 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33680032 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134598650 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 71411 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 115368 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 349203 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1763202 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7917309 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33732003 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134519554 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 83816 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 107169 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 371326 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1782844 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7432623 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33693985 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134521796 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 74959 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 117741 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 443508 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1711888 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7828551 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33683509 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134558954 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 72925 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 125944 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 457234 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 2077845 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7624199 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33689760 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134570666 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 58257 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 94587 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 339165 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1856077 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7615564 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33678445 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134526689 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 95225 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 144864 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 365543 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1723699 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7714589 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33649171 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134599921 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 64571 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 95414 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 456619 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1778679 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7827671 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33644403 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134573274 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 65056 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 101418 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 388530 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 1761543 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 7621677 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 33644520 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 134523590 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 554953 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 922034 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 4028696 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 15811823 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 64766685 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 271278242 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 1107626160 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 580738 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 1025005 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 4025104 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 15812091 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 64877496 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 265143572 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 1068846153 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 576812 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 1031302 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 4048488 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 15889441 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 64910183 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 273633285 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 1078466336 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 514197 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 1006993 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 4092393 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 16083268 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 65987458 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 276820269 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 1115286553 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 568996 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 943908 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 4049931 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 15883117 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 65178075 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 272857054 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 1107774659 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 1 trials: 534388 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 1 trials: 865427 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 1 trials: 4008212 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 1 trials: 15817114 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 1 trials: 64632066 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 1 trials: 270796329 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 1 trials: 1108246481 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 58886 nanoseconds
+Transaction size: 1024 * 4B = 4096 bytes
+Average CDMA Memcpy time over 10 trials: 117902 nanoseconds
+Transaction size: 4096 * 4B = 16384 bytes
+Average CDMA Memcpy time over 10 trials: 497286 nanoseconds
+Transaction size: 16384 * 4B = 65536 bytes
+Average CDMA Memcpy time over 10 trials: 2324829 nanoseconds
+Transaction size: 65536 * 4B = 262144 bytes
+Average CDMA Memcpy time over 10 trials: 10108185 nanoseconds
+Transaction size: 262144 * 4B = 1048576 bytes
+Average CDMA Memcpy time over 10 trials: 44388481 nanoseconds
+Transaction size: 1048576 * 4B = 4194304 bytes
+Average CDMA Memcpy time over 10 trials: 177510304 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 177466244 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes
+Average CDMA Memcpy time over 10 trials: 177487290 nanoseconds
+Transaction size: 4194304 * 4B = 16777216 bytes

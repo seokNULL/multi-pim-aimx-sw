@@ -1,0 +1,1 @@
+cmd_/home/mungook/pim_aimx_sw/xilinx-qdma/driver/src/Module.symvers := sed 's/\.ko$$/\.o/' /home/mungook/pim_aimx_sw/xilinx-qdma/driver/src/modules.order | scripts/mod/modpost -m -a  -o /home/mungook/pim_aimx_sw/xilinx-qdma/driver/src/Module.symvers -e -i Module.symvers   -T -

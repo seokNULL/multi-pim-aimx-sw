@@ -1,0 +1,1 @@
+cmd_/home/mungook/pim_aimx_sw/xilinx-qdma/driver/src/qdma-pf.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/mungook/pim_aimx_sw/xilinx-qdma/driver/src/qdma-pf.ko /home/mungook/pim_aimx_sw/xilinx-qdma/driver/src/qdma-pf.o /home/mungook/pim_aimx_sw/xilinx-qdma/driver/src/qdma-pf.mod.o;  true

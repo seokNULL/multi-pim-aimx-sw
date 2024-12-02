@@ -1,0 +1,1 @@
+cmd_/home/sy/work/multi-channel-pimx/pim_aimx_sw/multi_pim_sw_versal_sonic/src/xdma_src/xdma/modules.order := {   echo /home/sy/work/multi-channel-pimx/pim_aimx_sw/multi_pim_sw_versal_sonic/src/xdma_src/xdma/xdma.ko; :; } | awk '!x[$$0]++' - > /home/sy/work/multi-channel-pimx/pim_aimx_sw/multi_pim_sw_versal_sonic/src/xdma_src/xdma/modules.order
